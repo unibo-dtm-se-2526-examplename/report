@@ -8,7 +8,13 @@ nav_order: 3
 
 ## User stories
 
-- Write down [user stories](https://www.atlassian.com/agile/project-management/user-stories) to devise the main __personas__ (user roles) and the activities they will perform via the system to be developed.
+- US1: As a user, I want to be able to create an account so that I can access the application.
+
+- US2: As a user, I want to be able to log in to my account so that I can access my personalized content.
+
+- US3: As a user, I want to be able to reset my password in case I forget it.
+
+- US4: As a user, I want to be able to view my profile information so that I can keep it up to date.
 
 ## Requirements analysis
 
